@@ -3,9 +3,9 @@ Attribute VB_Name = "mMain"
 '                Royal Dictionary v1.0                '
 '-----------------------------------------------------'
 '                                                     '
-'                  Programmer: R@MiN                  '
-'                 03250422@yahoo.com                  '
-'                  www.mobilebaz.ir                   '
+'            Programmer: Ramin Sangesari              '
+'            https://github.com/idreamsi/             '
+'                  www.idreams.ir                     '
 '                                                     '
 '-----------------------------------------------------'
 Option Explicit
